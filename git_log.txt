@@ -1,0 +1,45 @@
+commit 3eb93947b24b5018706344b710bfe77a61b7dd2f
+Merge: d78511a 4bc063c
+Author: M00ns7 <120615471+M00ns7@users.noreply.github.com>
+Date:   Fri Jan 30 17:26:21 2026 -0800
+
+    Resolved merge conflict between favorite food and videogame
+
+commit 4bc063ce1d4df1d113b70b64a4f3b9048ffb4cc5
+Author: M00ns7 <120615471+M00ns7@users.noreply.github.com>
+Date:   Fri Jan 30 17:24:23 2026 -0800
+
+    Added favorite Video Game
+
+commit d78511af3971c962b21468820241a636eb1ad162
+Author: M00ns7 <120615471+M00ns7@users.noreply.github.com>
+Date:   Fri Jan 30 17:22:30 2026 -0800
+
+    Added Favorite food
+
+commit e39d19550f3099a9176b8588585b0e9e1d51fcdb
+Author: M00ns7 <120615471+M00ns7@users.noreply.github.com>
+Date:   Fri Jan 30 17:14:57 2026 -0800
+
+    Added README file
+
+commit 30aae44fd3095c38d91b0a1ce851c975308e61a0
+Merge: 1d2bfc0 e67ee57
+Author: Cristian Hernandez <120615471+M00ns7@users.noreply.github.com>
+Date:   Fri Jan 30 17:13:37 2026 -0800
+
+    Merge pull request #1 from M00ns7/info-fill
+    
+    Filled in blanks in index.html
+
+commit e67ee57653ab3b8cfc566d1f0372592ab2d77ba7
+Author: M00ns7 <120615471+M00ns7@users.noreply.github.com>
+Date:   Fri Jan 30 17:12:50 2026 -0800
+
+    Filled in blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
